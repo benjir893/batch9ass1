@@ -1,0 +1,196 @@
+
+.mainbody {
+    margin: 40px;
+}
+
+.bannersection{
+    background-image: url('../images/Banner\ Image.png');
+    height: auto;
+    width: auto;
+    margin: 25px;
+
+}
+.banner {
+    background-color: #06000a7b;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+    height: 550px;
+    width: 1139px;
+    
+}
+.secondaryheader {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family:DM Serif Display;
+    font-size: 32px;
+    font-style: bold;
+    font-weight: 400;
+    width: 300px;
+    padding-top: 186px;
+    padding-left: 470px;
+    padding-bottom: 0px;
+
+}
+.primaryheader {
+    color: #ffffff;
+    text-align: center;
+    font-family: DM Serif Display;
+    font-size: 45px;
+    font-style: bold;
+    font-weight: 900;
+    width: 690px;
+    height: 40px;
+    padding-top:auto;
+    padding-left: 300px;
+    padding-right: 0px;    
+}
+.secondsection {
+    text-align: center;
+    margin: 100px;
+}
+.discountoffer {
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+}
+.discdescrip {
+    color: red;
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.allcat {
+    font-weight: 700;
+    font-size: 27px;
+
+}
+.holidaypar {
+    display: inline-flex;
+}
+.thirdsect {
+    background-image: url('../images/Vectorrr.png');
+}
+.thirdsectdiv {
+    display: flex;
+    background-color: #00000090;
+    justify-content: space-between;
+}
+.thirddivintodiv {
+    color: white;
+    padding-top: 45px;
+    padding-left: 50px;
+}
+.thirdsecthding {
+    font-size: 45px;
+}
+.thirdsectpara {
+    padding-top: 10px;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+.joinnow {
+    color: #ffffff;
+    font-weight: bold;
+    background: #00000000;
+    border: none;
+
+}
+.fourthsect {
+    margin-top: 100px;
+    height: 400px;
+    background-image:linear-gradient(pink, white);
+    border-width: 5px;
+}
+.fourthsectdiv {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 100px 90px 130px 90px;
+}
+.place {
+    color: red;
+}
+.date {
+    color: red;  
+       
+}
+.evetime {
+    color: red;
+    
+}
+.secondjoinbnt{
+    color: white;
+    background: red;
+    border: none;
+    font-weight: bold;
+}
+.fifthsect{
+    margin-top: 80px;
+}
+.fifthsectdivmain {
+    display: flex;
+    justify-content:space-between;
+}
+.fifthdivmaini {
+    display: inline-flexbox;
+}
+.fifthdivmainii{
+    padding: 7px;
+    width: 235px;
+    height: 235px;
+    border-radius: 50%;
+    border: 7px solid;
+    border-color: red;
+}
+
+.fifthdvmainimgi{
+    width: 200px;
+    height: 200px;
+}
+.fdvmpi{
+    color: red;
+}
+.fdvmheading {
+    font-size: 35px;
+}
+.fdvmii{
+    color: red;
+    font-size: 24px;
+}
+.sixsecndvii {
+    background-image:url('../images/Rectangle\ 2.png');
+    background-position:bottom left;
+    background-repeat: no-repeat;
+}
+.sixsecndviii {
+    background-image: url('../images/Rectangle\ 1.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.sixsecndvi{
+    text-align: center;
+}
+.sixhdvi{
+    font-size: 20px;
+}
+.holidays {
+    color: red;
+}
+.sixp {
+    font-weight: bold;
+}
+.sixsecndviv {
+   padding-top: 20px;
+   padding-left: 0;
+}
+.grpii{
+    width: 200px;
+    height: 200px;
+    background-position-x:left ;
+}
+.grpiii {
+    width: 650px;
+    height: 657px;
+}
