@@ -1,6 +1,6 @@
 
 .mainbody {
-    margin: 40px;
+    /* margin: 40px; */
 }
 
 .bannersection{
@@ -16,7 +16,7 @@
     background-repeat: no-repeat;
     align-content: center;
     height: 550px;
-    width: 1139px;
+    width: 1220px;
     
 }
 .secondaryheader {
@@ -62,10 +62,13 @@
 .allcat {
     font-weight: 700;
     font-size: 27px;
-
+    padding-top: 0px;
 }
 .holidaypar {
     display: inline-flex;
+}
+.discdescrip {
+    padding-bottom: 0;
 }
 .thirdsect {
     background-image: url('../images/Vectorrr.png');
@@ -124,9 +127,12 @@
     background: red;
     border: none;
     font-weight: bold;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
 }
 .fifthsect{
-    margin-top: 80px;
+    margin: 120px;
 }
 .fifthsectdivmain {
     display: flex;
@@ -136,12 +142,13 @@
     display: inline-flexbox;
 }
 .fifthdivmainii{
-    padding: 7px;
+    padding-top: 20px;
     width: 235px;
     height: 235px;
     border-radius: 50%;
     border: 7px solid;
     border-color: red;
+    text-align: center;
 }
 
 .fifthdvmainimgi{
@@ -156,7 +163,7 @@
 }
 .fdvmii{
     color: red;
-    font-size: 24px;
+    font-size: 33px;
 }
 .sixsecndvii {
     background-image:url('../images/Rectangle\ 2.png');
