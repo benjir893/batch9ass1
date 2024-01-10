@@ -194,3 +194,96 @@
     width: 650px;
     height: 657px;
 }
+.seventhsec {
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+.sevsecdiv {
+    width: 1200px;
+    height: fit-content;
+}
+.sevsecndvi {
+    /* text-align: center; */
+}
+.sevsecndvii {
+    display:inline-flexbox;
+    margin: auto;
+    width: 1200px;
+}
+.sevsechi {
+    font-size: 15px;
+    color: red;
+}
+.sevsechii {
+    font-size: 23px;
+}
+.sevsecp {
+    font-size: 13px;
+
+}
+.rectthree {
+    width: 390px;
+    height: 390px;
+}
+.sevsecpi {
+    display: flex;
+}
+.eightth {
+    margin: 60px;
+    padding: 25px;
+    background-color: antiquewhite;   
+}
+.eightdv {
+    text-align: center;
+}
+.eightinput {
+    width: 200px;
+    height: 30px;
+    border-top-left-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+.eightinputi {
+    width: 100px;
+    height: 35px;
+    background-color: red;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    border: none;
+    border-top-right-radius: 15%;
+    border-bottom-right-radius: 15%;
+}
+.sectfooter {
+    width: auto;
+    height: auto;
+    margin-top: 50px;
+    color: white;
+    font-size: 15px;
+    padding: 15px;
+    background-color: rgb(15, 1, 27);
+}
+.addressdv {
+    display: flex;
+    justify-content: space-between;
+}
+.footercontul> .footercontli {
+    list-style: none;
+}
+.socialdv {
+    /* display: flex; */
+}
+.socialul {
+    text-align: center;
+}
+.socialul> .socialli {
+    list-style: none;
+    display: inline;
+    padding-right: 10px;
+}
+.allrightdv {
+    display: flex;
+    justify-content: space-between;
+}
